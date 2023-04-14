@@ -24,7 +24,7 @@ Ejemplo de entrada
 
 árbol
 
-![Image of the challenge](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/f1bd5513aa0859166ded8b753c65e426c3f5de0c/images/Entrada.png)
+![Image of the challenge](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/91b3c0ff2f42d13f854a2cefc5bbd69af13eee2c/images/Imagen%20prueba.png)
 
 Ejemplo de salida
 
