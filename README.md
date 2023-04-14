@@ -24,7 +24,7 @@ Ejemplo de entrada
 
 árbol
 
-![Image of the challenge](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/6a45741f9df7d5579797dc2255acf969872df095/images/Imagen%20prueba.png)
+![Image of the challenge](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/f1bd5513aa0859166ded8b753c65e426c3f5de0c/images/Entrada.png)
 
 Ejemplo de salida
 
@@ -47,7 +47,7 @@ Para agregar valores al árbol binario, se deben seguir las instrucciones que ap
 
 Por ejemplo, si deseas agregar los valores 5, 3, 7, 1 y 9 al árbol binario, debes ingresar los siguientes valores en la terminal:
 
-![Image of the challenge](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/6a45741f9df7d5579797dc2255acf969872df095/images/entrada.png)
+![Image of the Enter](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/f1bd5513aa0859166ded8b753c65e426c3f5de0c/images/Entrada.png)
 
 # Lenguaje utilizado: Python
 
