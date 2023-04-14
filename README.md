@@ -24,6 +24,8 @@ Ejemplo de entrada
 
 árbol
 
+![Image of the challenge](/images/imagenprueba.png)
+
 Ejemplo de salida
 
 No
