@@ -49,6 +49,14 @@ Por ejemplo, si deseas agregar los valores 5, 3, 7, 1 y 9 al árbol binario, deb
 
 ![Image of the Enter](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/f1bd5513aa0859166ded8b753c65e426c3f5de0c/images/Entrada.png)
 
+En este caso, la lista contiene los valores del árbol binario en orden ascendente, lo que significa que el árbol binario es un árbol de búsqueda binario válido, y va a generar el siguiente arból:
+
+![Image of the Eject](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/6961d47922d382f6c170a4ad256fe5f39c0cfad3/images/Ejecutar.png)
+
+Para este caso, la salida esperada es "Yes", ya que el árbol binario creado es un árbol de búsqueda binario válido, donde todos los valores en el subárbol izquierdo del nodo raíz son menores que el valor del nodo raíz, y todos los valores en el subárbol derecho del nodo raíz son mayores que el valor del nodo raíz.
+
+![Image of the Eject](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/6961d47922d382f6c170a4ad256fe5f39c0cfad3/images/FalseOrTrue.png)
+
 # Lenguaje utilizado: Python
 
 Elegí Python como lenguaje de programación para este proyecto porque es un lenguaje de alto nivel de el cuál tengo conocimientos básicos y previos usos, fácil de leer y escribir. Además, tiene una gran cantidad de bibliotecas y herramientas disponibles que facilitan el desarrollo de programas. Python también es ampliamente utilizado en el campo de la ciencia de datos y la inteligencia artificial, lo que lo convierte en una excelente opción para proyectos de programación relacionados con estos temas.
