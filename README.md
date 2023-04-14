@@ -55,7 +55,7 @@ En este caso, la lista contiene los valores del árbol binario en orden ascenden
 
 Para este caso, la salida esperada es "Yes", ya que el árbol binario creado es un árbol de búsqueda binario válido, donde todos los valores en el subárbol izquierdo del nodo raíz son menores que el valor del nodo raíz, y todos los valores en el subárbol derecho del nodo raíz son mayores que el valor del nodo raíz.
 
-![Image of the Eject](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/6961d47922d382f6c170a4ad256fe5f39c0cfad3/images/FalseOrTrue.png)
+![Image of the Verify binari false or true]([https://github.com/LiJoBaZar/PruebaIntern-Code/blob/6961d47922d382f6c170a4ad256fe5f39c0cfad3/images/FalseOrTrue.png](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/aac5182d34c5fed0b843a2399bf367c11aab63c0/images/FalseOrTrue.png))
 
 # Lenguaje utilizado: Python
 
