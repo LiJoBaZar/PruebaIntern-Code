@@ -27,3 +27,33 @@ Ejemplo de entrada
 Ejemplo de salida
 
 No
+
+# SOLUCIÓN
+
+Se crea un programa en Python que verifica si un árbol binario dado es un árbol de búsqueda binario válido. El programa utiliza una implementación de la clase Node para crear nodos de árbol binario y la función check_binary_search_tree_ para verificar si el árbol es un árbol de búsqueda binario válido.
+
+# Cómo ejecutar el programa:
+
+# Cómo ejecutar el programa:
+
+- Previa instalación Python 3.
+- Ejecuta el comando python main.py en la terminal.
+- Ejecuta el archivo .py
+- Ingresa a solicitud en la terminal para ingresar los valores del árbol binario. Si el árbol es un árbol de búsqueda binario válido, la salida esperada es "Yes". De lo contrario, la salida esperada es "No".
+
+# Cómo agregar valores al árbol binario
+
+Para agregar valores al árbol binario, se deben seguir las instrucciones que aparecen en la terminal después de ejecutar el programa. Primero, ingresa el número de nodos que deseas agregar al árbol. Luego, ingresa los valores para cada nodo, uno a la vez. Los valores pueden ser números enteros positivos o negativos.
+
+Por ejemplo, si deseas agregar los valores 5, 3, 7, 1 y 9 al árbol binario, debes ingresar los siguientes valores en la terminal:
+
+# Lenguaje utilizado: Python
+
+Elegí Python como lenguaje de programación para este proyecto porque es un lenguaje de alto nivel de el cuál tengo conocimientos básicos y previos usos, fácil de leer y escribir. Además, tiene una gran cantidad de bibliotecas y herramientas disponibles que facilitan el desarrollo de programas. Python también es ampliamente utilizado en el campo de la ciencia de datos y la inteligencia artificial, lo que lo convierte en una excelente opción para proyectos de programación relacionados con estos temas.
+
+## Autor
+
+<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> [Johanna Balcazar](https://www.linkedin.com/in/johanna-balcazar-696554240/)
+
+
+<a href = 'https://github.com/Luiyi-F'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" /></a> [Johanna Balcazar](https://github.com/LiJoBaZar)
