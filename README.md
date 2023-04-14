@@ -55,6 +55,8 @@ En este caso, la lista contiene los valores del árbol binario en orden ascenden
 
 Para este caso, la salida esperada es "Yes", ya que el árbol binario creado es un árbol de búsqueda binario válido, donde todos los valores en el subárbol izquierdo del nodo raíz son menores que el valor del nodo raíz, y todos los valores en el subárbol derecho del nodo raíz son mayores que el valor del nodo raíz.
 
+Para verificar si este árbol binario es un árbol de búsqueda binario válido, llamamos a la función check_binary_search_tree_ con la raíz del árbol:
+
 ![Image of the Verify binari false or true](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/c319895079118ea3727368f9f50044f8a3f1c9bb/images/FalseOrTrue.png)
 
 # Lenguaje utilizado: Python
