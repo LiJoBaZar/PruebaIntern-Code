@@ -45,7 +45,7 @@ Se crea un programa en Python que verifica si un árbol binario dado es un árbo
 
 Para agregar valores al árbol binario, se deben seguir las instrucciones que aparecen en la terminal después de ejecutar el programa. Primero, ingresa el número de nodos que deseas agregar al árbol. Luego, ingresa los valores para cada nodo, uno a la vez. Los valores pueden ser números enteros positivos o negativos.
 
-Por ejemplo, si deseas agregar los valores 5, 3, 7, 1 y 9 al árbol binario, debes ingresar los siguientes valores en la terminal:
+Por ejemplo, si se desea agregar los valores 5, 3, 7, 1 y 9 al árbol binario, se debe ingresar los siguientes valores en la terminal:
 
 ![Image of the Enter](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/f1bd5513aa0859166ded8b753c65e426c3f5de0c/images/Entrada.png)
 
