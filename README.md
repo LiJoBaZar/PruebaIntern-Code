@@ -51,11 +51,11 @@ Por ejemplo, si deseas agregar los valores 5, 3, 7, 1 y 9 al árbol binario, deb
 
 En este caso, la lista contiene los valores del árbol binario en orden ascendente, lo que significa que el árbol binario es un árbol de búsqueda binario válido, y va a generar el siguiente arból:
 
-![Image of the Eject](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/6961d47922d382f6c170a4ad256fe5f39c0cfad3/images/Ejecutar.png)
+![Image of the Eject](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/c319895079118ea3727368f9f50044f8a3f1c9bb/images/ArbolBinarioCreado.png)
 
 Para este caso, la salida esperada es "Yes", ya que el árbol binario creado es un árbol de búsqueda binario válido, donde todos los valores en el subárbol izquierdo del nodo raíz son menores que el valor del nodo raíz, y todos los valores en el subárbol derecho del nodo raíz son mayores que el valor del nodo raíz.
 
-![Image of the Verify binari false or true]([https://github.com/LiJoBaZar/PruebaIntern-Code/blob/6961d47922d382f6c170a4ad256fe5f39c0cfad3/images/FalseOrTrue.png](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/aac5182d34c5fed0b843a2399bf367c11aab63c0/images/FalseOrTrue.png))
+![Image of the Verify binari false or true](https://github.com/LiJoBaZar/PruebaIntern-Code/blob/c319895079118ea3727368f9f50044f8a3f1c9bb/images/FalseOrTrue.png)
 
 # Lenguaje utilizado: Python
 
